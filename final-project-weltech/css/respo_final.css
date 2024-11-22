@@ -1,0 +1,149 @@
+@media (max-width: 768px) {
+
+    .sec-4-box{
+        display: none;
+    }
+    .nextpregap{
+        gap: 10%;
+    }
+    .borderEnd{
+        border: none;
+        padding: 0;
+        margin: 0;
+    }
+    .speech-bubble {
+       
+        width: 356px;
+    }
+    .container{
+        width: auto;
+    }
+    .carOnData {
+        top: 50%;
+        width: unset !important;
+    }
+    .sec-1 {
+        height: auto !important;
+        background: #000;
+    }
+    .sec2img {
+        height: 165px;
+    }
+    .carOnData {
+        top: 25%;
+        width: inherit;
+        font-size: large;
+    }
+    .sec4-p {
+        width: auto;
+        text-align: center;
+    }
+    .sec-6-respo{
+        flex-wrap: wrap;  
+        width: 100%;
+    }
+    .jan-26 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-top: 15px;
+    }
+    .sec3Card{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .sec1Box{
+        width: 100%;
+            } 
+            .sec1-carBox{
+                flex-wrap: wrap;
+            }
+            .sec7{
+                display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            }
+            
+.sec1Container{
+    z-index: 33;
+    bottom: 0;
+    width: 70%;
+    }
+    .sec1-con{
+        display: flex;
+        justify-content: center;
+    }
+    .course-info{
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 576px) {
+    .course-info{
+        flex-direction: column;
+    }
+    .sec1-con{
+        display: flex;
+        justify-content: center;
+    }
+.sec1Container{
+    z-index: 33;
+    bottom: 0;
+    width: 70%;
+    }
+    .sec1Box{
+width: 100%;
+    } 
+    .sec1-carBox{
+        flex-wrap: wrap;
+    }
+    .sec3Card{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    .sec7{
+        display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    }
+    .images {
+        display: grid;
+        grid-template-columns: auto auto auto ; 
+       
+    }
+    .sec1-hide{
+        display: none;
+    }
+    .sec-7 {
+        width: 100%;
+        height: 310px;
+        /* overflow: hidden; */
+    }
+    .sec-7-all {
+       
+        top: 0;
+    }
+    .sec-7-con{
+        display: block  !important;
+    }
+    .sec-4-box{
+        display: none;
+    }
+    .nextpregap{
+        gap: 10%;
+    }
+    .borderEnd{
+        border: none;
+        padding: 0;
+        margin: 0;
+    }
+    .speech-bubble {
+       
+        width: 356px;
+    }
+}
+
